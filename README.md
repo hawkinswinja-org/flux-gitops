@@ -2,6 +2,8 @@
 
 This demo introduces **Flux**, a GitOps toolset built for Kubernetes. It enables continuous delivery by syncing cluster state with definitions stored in Git.
 
+*[Flux Docs Getting Started](https://fluxcd.io/flux/get-started/)*
+
 ## 🧩 1. Flux Components and `gotk`
 
 Flux is made up of modular components, each responsible for a specific task. These include:
